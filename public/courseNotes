@@ -1,0 +1,6 @@
+
+- A component is a function that returns jsx. using a component in jsx makes react aware of the function, when the code runs, it will call the function.
+-  This will keep calling all functions (components) within each component.
+
+
+State: 
