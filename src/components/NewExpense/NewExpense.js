@@ -1,5 +1,1 @@
-export default function NewExpense() {
-    return(
-        
-    )
-}
+export default function NewExpense() {}
