@@ -23,7 +23,6 @@ export default function ExpenseForm() {
       </div>
       <div className={styles.newExpenseActions}>
         <button type="button">Add Expense</button>
-
       </div>
     </form>
   );
