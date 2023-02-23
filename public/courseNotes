@@ -4,3 +4,5 @@
 
 
 State: 
+
+when you update state and you depend on the rpevious state, do not use the spread operator. - See lectures 54 & 55
